@@ -1,3 +1,3 @@
-module pkg.tcw.im/go-disk-usage
+module github.com/sonnh-uit/go-disk-usage
 
-go 1.13
+go 1.23

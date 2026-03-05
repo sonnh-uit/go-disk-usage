@@ -3,7 +3,7 @@ package du_test
 import (
 	"fmt"
 
-	"tcw.im/go-disk-usage/du"
+	"github.com/sonnh-uit/go-disk-usage/du"
 )
 
 var KB = uint64(1024)
